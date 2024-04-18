@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css"/>
+    <title>Copa del Mundo</title>
+</head>
+<body>
+
+    <h1 id="titulo"><center>Mundial Uruguay 1930</center></h1>
+    <div>
+
+    <h2 id="Resultados"><center>Resultados</center></h2>
+
+</div>
+<h3 id="grupoa"><center>Grupo A</center></h3>
+    <p>Argentina <img src="argentina.jpg" alt="bandera argentina"></p>
+</body>
+</html>
+
+
+
+  
+
+
+
+  #titulo
+{
+ color: black;
+}
+
+#Resultados{
+     color: rgb(6, 31, 253);
+}
+
+#grupoa{
+color: blue;
+}
+
+
